@@ -1,13 +1,9 @@
 ---
 layout: post
 title: '日常'
-date: 2020-06-19 20:44:37
-categories: jekyll update
+date: 2020-06-24	 20:40:37 +0800
+categories: update
 ---
-
-日常生活
-
-<!-- more -->
 
 6.24更新
 

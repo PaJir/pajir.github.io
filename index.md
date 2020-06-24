@@ -13,6 +13,6 @@ layout: home
 
 搭建博客用的是jekyll，之前还用了Gridea（体验一般）。
 
-现在还非常草率，**FOLLOW ME**指向的是别人的主页，我还没改……先凑合着吧。
+现在还比较草率。
 
 模板是从http://jekyllthemes.org/下载的，换了封面图。之后在研究一下jekyll官方文档，英文的读起来难受。

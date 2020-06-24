@@ -2,6 +2,6 @@
 layout: post
 title: "讲故事"
 date: 2020-06-19 21:44:19 +0800
-categories: jekyll update
+categories: update
 ---
 这个是答应谁要写一下关于她的（其实我懒得写的），之后再说吧。

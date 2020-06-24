@@ -4,30 +4,21 @@ disqus:
   disqus_shortname: 'apham'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: 'UA-91332049-1'
+google-ID: ''
 
 menu: 
-  - name: Featured Projects
-    submenu:
-      - name: MicroBam
-        link: /projects/microbam
-      - name: OurLegacy
-        link: /projects/ourlegacy
-  - name: Posts
+  - name: 首页
     link: /
-  - name: Tags
-    link: /tags
-  - name: About
-    link: /about
+  - name: 文章
+    submenu:
+      - name: 日常
+        link: /update/2020/06/24/daily-life.html
+      - name: 儿童节
+        link: /update/2020/06/19/children-day.html
+      - name: 关于我
+        link: /about
   - name: Follow me
     submenu:
       - name: GitHub
         icon: github
-        link: http://github.com/alainpham
-      - name: LinkedIn
-        icon: linkedin-square
-        link: http://www.linkedin.com/in/alainpham
-      - name: Twitter
-        icon: twitter
-        link: https://twitter.com/koint
-    
+        link: http://github.com/pajir

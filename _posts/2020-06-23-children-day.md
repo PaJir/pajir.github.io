@@ -1,8 +1,8 @@
 ---
 layout: post
 title: '儿童节'
-date: 2020-06-19 21:46:11
-categories: jekyll update
+date: 2020-06-19 21:46:11 +0800
+categories: update
 ---
 “小可爱的童年”
 
