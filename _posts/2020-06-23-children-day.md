@@ -6,7 +6,7 @@ categories: update
 ---
 “小可爱的童年”
 
-![1](https://pajir.github.io/assets/images/1592571164180.png)
+![1](/assets/images/1592571164180.png)
 
 可以把和游戏的事情都讲一遍，这个能讲好多天了。
 
